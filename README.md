@@ -2,8 +2,8 @@
 
 본 프로젝트는 2018년 JBNU Unix Programming Project 로 제출한 SkiGame 입니다.
 
-구동 환경 : Centos 7 
-          Mysql
+구동 환경 : Centos 7, 
+          Mysql,
           Tomcat 7
           
 설 명 : CLI 상에서 작동하는 게임으로써 게임이 종료 될 때 사용자로부터 점수 저장 여부(Y/N)를 받아
